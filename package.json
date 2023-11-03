@@ -1,0 +1,19 @@
+{
+  "name": "starter-node",
+  "version": "1.0.0",
+  "description": "Starter Express Node App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Cikal <cikaldev@gmail.com>",
+  "license": "ISC",
+	"engines": {
+		"node": "18.18.2",
+		"npm": "9.8.1"
+	},
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
